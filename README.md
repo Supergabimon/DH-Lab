@@ -9,3 +9,8 @@ I'm just not sure about my research question yet. Now I'll look into literature 
 ## 09.10.2026
 The site slavevoyages has its database file in SPSS Format. A tool that we're not introduced in class. Could that be a problem? 
 I have however worked in Uni Fribourg on SPSS for a statistic lecture but it has been a while an the tool was for free through that uni - hope UniBern also provides it..
+
+## 28.10.2026
+I'm checking out to work with SPSS files without using SPSS itself (because there's a paywall).
+Alternative: JASP
+Let's see
