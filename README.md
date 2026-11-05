@@ -14,3 +14,7 @@ I have however worked in Uni Fribourg on SPSS for a statistic lecture but it has
 I'm checking out to work with SPSS files without using SPSS itself (because there's a paywall).
 Alternative: JASP
 Let's see
+
+## 05.11.2026
+Maybe I'll start by analysing the Database itself, before doing any visualization. What infromation was collected, in how much detail? Reasoing behind it? Historical context?
+
