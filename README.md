@@ -16,5 +16,7 @@ Alternative: JASP
 Let's see
 
 ## 05.11.2026
-Maybe I'll start by analysing the Database itself, before doing any visualization. What infromation was collected, in how much detail? Reasoing behind it? Historical context?
+Maybe I'll start by analysing the Database itself, before doing any visualization. What infromation was collected, in how much detail? Reasoning behind it? Historical context?
 
+## 10.11.2026
+I'll restrict myself only to one specific dataset from slavevoyages.org (is that site actually a digital scholarly edit?): I'll work with the "AfricanNamesDatabase" which is actually already available as a csv to download. I'll still open it with JASP for the moment, cause I don't want to have it installed for nothing LOL
